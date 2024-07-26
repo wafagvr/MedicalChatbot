@@ -13,3 +13,13 @@ conda activate mchatbot
 ```bash
 pip install -r requirements.txt
 ```
+
+# run the following command
+
+```bash
+python store_index.py
+```
+
+```bash
+python app.py
+```

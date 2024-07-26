@@ -5,3 +5,4 @@ langchain==0.2.8
 flask
 pypdf
 python-dotenv
+-e .
